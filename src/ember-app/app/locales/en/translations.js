@@ -105,6 +105,10 @@ $.extend(true, translations, {
         'кадровые-документы': {
           caption: 'Кадровые документы',
           title: 'Кадровые документы',
+          'i-i-s-finalnyjj-proekt-расчетный-лист-l': {
+            caption: 'Расчетный лист',
+            title: ''
+          },
           'i-i-s-finalnyjj-proekt-отделы-l': {
             caption: 'Отделы',
             title: ''

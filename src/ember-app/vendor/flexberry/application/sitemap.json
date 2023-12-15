@@ -9,6 +9,13 @@
       "title": "Кадровые документы",
       "children": [
         {
+          "link": "i-i-s-finalnyjj-proekt-расчетный-лист-l",
+          "menuName": null,
+          "caption": "Расчетный лист",
+          "title": "",
+          "children": null
+        },
+        {
           "link": "i-i-s-finalnyjj-proekt-отделы-l",
           "menuName": null,
           "caption": "Отделы",
@@ -47,21 +54,6 @@
           "link": "i-i-s-finalnyjj-proekt-должности-l",
           "menuName": null,
           "caption": "Должности",
-          "title": "",
-          "children": null
-        }
-      ]
-    },
-    {
-      "link": null,
-      "menuName": "расчетные-документы",
-      "caption": "Расчетные документы",
-      "title": "Расчетные документы",
-      "children": [
-        {
-          "link": "i-i-s-finalnyjj-proekt-расчетный-лист-l",
-          "menuName": null,
-          "caption": "Расчетный лист",
           "title": "",
           "children": null
         }
